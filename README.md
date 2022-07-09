@@ -1,7 +1,7 @@
 # 123.hp.com/setup
 
 
-[![123.hp.com/setup](get-start.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
+[![123.hp.com/setup](gett-started.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
 HP Printers are all in one printer that enables print, copy and scan all together using one printer. People prefer using HP Printers, because of its advanced features such as it can scan docs also. Download hp Driver using [123.hp.com/setup](https://github.com/123-hp-com-setup-123/123.hp.com-setup) and learn wireless hp printer setup. Follow the simple setup guide and connect it with your device whether mac or mobile. 
 
